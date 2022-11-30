@@ -1,6 +1,6 @@
-# ft_Printf
+# Printf
 
-## _42 Cursus Project Introduction
+## 42 Cursus Project Introduction
 
 The versatility of the printf function in the C language gives us a huge workout for programming. This project is of medium difficulty. It will enable you to discover variable functions in C language.
 Well-structured and easily extensible code is the secret to a successful ft_printf function.
