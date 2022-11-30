@@ -45,8 +45,8 @@ First, clone the repository
 git clone https://github.com/BatuhanBilgili/ft_Printf.git
 cd ft_printf
 make
-u need write main and gcc ft_printf.c libftprintf.a
-and you get the result ./a.out
+(u need write main and )gcc ft_printf.c libftprintf.a
+(and you get the result)./a.out
 ```
 
 ## Tester
